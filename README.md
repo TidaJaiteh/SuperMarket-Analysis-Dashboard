@@ -49,7 +49,7 @@ Explores:
 
 ### Product & Sales Analysis
 
-![Product Analysis](screenshots/Product%20Sales%20Analysis.png)
+![Product Analysis](screenshots/Product%20%26%20Sales%20Analysis.png)
 
 ### Customer Insights
 
