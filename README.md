@@ -35,15 +35,15 @@ Explores:
 - Customer Spending Patterns
 
 ## Key Insights
-
 The supermarket generated over 135,000 in total revenue across all recorded transactions.
 Giza was the highest-performing branch, generating more than 40,000 in revenue.
 Naypyitaw was the top-performing city, contributing approximately 47,000 in revenue (34.93% of total sales).
-Home and Lifestyle was the highest revenue-generating product line, contributing over 25,000 in sales.
+Home and Lifestyle was the highest revenue-generating product line, contributing over D25,000 in sales.
 Afternoon was the busiest sales period, generating over 60,000 in revenue.
 Credit Card was the highest-revenue payment method among customers.
 Members spent more than Normal customers, highlighting the value of customer loyalty programs.
 Customer ratings remained consistently high across branches, indicating strong customer satisfaction.
+
 
 ## Dashboard Screenshots
 
