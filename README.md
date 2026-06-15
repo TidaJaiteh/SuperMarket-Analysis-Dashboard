@@ -61,4 +61,6 @@ Customer ratings remained consistently high across branches, indicating strong c
 
 ## Author
 
-Tida
+Tida Jaiteh
+Information Systems Student
+🔗 www.linkedin.com/in/tida-jaiteh-0092ba346
