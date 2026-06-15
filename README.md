@@ -63,4 +63,5 @@ Customer ratings remained consistently high across branches, indicating strong c
 
 Tida Jaiteh
 Information Systems Student
+tida3858817@gmail.com
 🔗 www.linkedin.com/in/tida-jaiteh-0092ba346
